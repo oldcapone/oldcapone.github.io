@@ -1,2 +1,2 @@
-# oldcapone.github.io
+# Игорь Иванов
 Мой проект
